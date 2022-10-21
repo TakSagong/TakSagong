@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TakSagong
-- 👀 I’m interested in Doing Nothing
+- 👀 I’m interested in Do Nothing
 - 🌱 I’m currently learning C, Python, JS
 - 📫 How to reach me k402900@naver.com
 

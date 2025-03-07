@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TakSagong
-- 👀 I’m interested in Do Nothing
-- 🌱 I’m currently learning C, Python, JS
+- 🌱 I’m currently Node.js express
 - 📫 How to reach me k402900@naver.com
 
 <!---
